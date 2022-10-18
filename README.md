@@ -1,0 +1,1 @@
+My first project with Mysql, a page that prints the users' data, follows in the "script.sql" the instructions of how I created the database.
