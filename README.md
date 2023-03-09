@@ -1,1 +1,1 @@
-Meu primeiro projeto com Mysql e a linguagem PHP, uma página que imprime os dados do usuário. Segue em "script.sql" as instruções de como criei o banco de dados.
+My first project with Mysql and the PHP language, a page that prints user data. Follow in "script.sql" the instructions on how I created the database.
